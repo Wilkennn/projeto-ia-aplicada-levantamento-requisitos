@@ -25,8 +25,6 @@ O objetivo geral desta pesquisa é analisar como a utilização de IA para levan
 3. Identificar áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de licitação.
 4. Comparar os resultados e eficácia da utilização de IA com os métodos tradicionais de consulta a livros e documentos de licitação para o levantamento de requisitos.
 
-#a
-
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
 
 1. **Revisão de Literatura**:
