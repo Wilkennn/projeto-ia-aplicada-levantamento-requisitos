@@ -3,7 +3,7 @@
 * Ana Júlia Teixeira Cândido
 * Marcella Ferreira Chaves Costa
 * Wilken Henrique Moreira
-* Lesandro Ponciano dos Santos
+* **Orientador:** Lesandro Ponciano dos Santos
 
 # Tema
 
@@ -23,7 +23,6 @@ O objetivo geral desta pesquisa é analisar se a utilização de inteligência a
 1. Medir a eficácia da utilização de IA para o levantamento de requisitos em documentos de licitação.
 2. Avaliar a satisfação dos profissionais responsáveis pela consulta a livros e documentos de licitação em relação à integração de IA nesse processo.
 3. Identificar áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de licitação.
-4. Comparar os resultados e a eficácia da utilização de IA com os métodos tradicionais de consulta a livros e documentos de licitação para o levantamento de requisitos.
 
 
 # Materiais e Métodos
