@@ -28,11 +28,11 @@
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é 
+1. O trabalho mais relacionado é “An Automated Model of Software Requirement Engineering Using GPT-3.5” (DOI: 10.1109/ICETSIS61505.2024.10459458), publicado no ano 2024, porque ele discute a integração da inteligência artificial (modelo GPT-3.5) no processo de engenharia de requisitos de software. O artigo explora como a IA pode trabalhar na geração de questionários e entrevistas para coleta de requisitos e avalia o potencial da IA para automação e aprimoramento dos processos de engenharia de requisitos de software.
 
-2. O segundo trabalho mais relacionado é 
+2. O segundo trabalho mais relacionado é “Smart Cities Paradigm with AI-Enabled Effective Requirements Engineering” (DOI: 10.1109/ICET59753.2023.10375008), publicado no ano 2023, porque ele discute ferramentas e técnicas baseadas em inteligência artificial (IA) para coleta e gestão de requisitos para o desenvolvimento de cidades inteligentes.
 
-3. O terceiro trabalho mais relacionado é
+3. O terceiro trabalho mais relacionado é “Factors that Affect Data Gathered Using Interviews for Requirements Gathering” (DOI: 10.1109/ICCSAI53272.2021.9609706), publicado no ano 2021, porque o artigo nos ajuda a entender a importância das entrevistas na coleta de requisitos para o desenvolvimento de software, enfatizando a necessidade de habilidades de comunicação e conhecimento técnico por parte dos entrevistadores. Nesse sentido, ao fazer o uso da inteligência artificial (IA) nesse processo, devemos considerar lacunas em relação à eficácia das entrevistas e ao papel do engenheiro de requisitos.
    
 ## Materiais e Métodos
 
