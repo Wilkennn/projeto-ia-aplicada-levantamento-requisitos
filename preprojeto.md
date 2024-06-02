@@ -19,11 +19,11 @@
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é 
+1. **O conceito/teoria principal associado a este trabalho é a Engenharia de Requisitos.** A engenharia de requisitos é uma disciplina fundamental da engenharia de software, que trata da identificação, documentação e gerenciamento das necessidades e expectativas dos stakeholders. A sua eficácia é crucial para o sucesso de um projeto, pois requisitos mal definidos podem levar a custos elevados e falhas no sistema.
 
-2. O conceito/teoria secundário associado a este trabalho é 
+2. **O conceito/teoria secundário associado a este trabalho é a Inteligência Artificial.** A Inteligência Artificial (IA), é a capacidade de máquinas e programas de realizarem tarefas que normalmente requerem inteligência humana, como aprender, resolver problemas e tomar decisões. Isso é feito através de algoritmos que simulam o raciocínio humano. No contexto da engenharia de software, a IA tem sido utilizada para automatizar e melhorar diversas atividades, incluindo o levantamento de requisitos. 
 
-3. O conceito/teoria terciário associado a este trabalho é 
+3. **O conceito/teoria terciário associado a este trabalho é a Comparação de Métodos Tradicionais e Modernos.** Métodos tradicionais geralmente envolvem entrevistas, workshops e análise de documentos, que podem ser demorados e suscetíveis a erros humanos. Por outro lado, métodos automatizados utilizando IA podem aumentar a precisão e a abrangência do levantamento de requisitos.
 
 
 ## Trabalhos Relacionados
