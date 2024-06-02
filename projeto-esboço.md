@@ -27,6 +27,6 @@ Os objetivos específicos são:
 
 # Materiais e Métodos
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
-*As ferramentas de inteligência artificial utilizadas para comparar a eficiência na identificação de requisitos serão o CHATGPT-3.5 e Google Gemini.
-*Para medir a efetividade da IA no levantamento de requisitos, utilizaremos o livro "Requirements Engineering: Fundamentals, Principles, and Techniques" de Klaus Pohl e Chris Rupp como base para a criação de cenários comparativos.
-*Serão identificadas as disparidades entre os requisitos coletados por meio da consulta tradicional e da utilização de IA, conforme descrito no livro "Requirements Engineering: Fundamentals, Principles, and Techniques" por Klaus Pohl e Chris Rupp. A eficácia de cada abordagem será avaliada com métricas específicas.
+* As ferramentas de inteligência artificial utilizadas para comparar a eficiência na identificação de requisitos serão o CHATGPT-3.5 e Google Gemini.
+* Para medir a efetividade da IA no levantamento de requisitos, utilizaremos o livro "Requirements Engineering: Fundamentals, Principles, and Techniques" de Klaus Pohl e Chris Rupp como base para a criação de cenários comparativos.
+* Serão identificadas as disparidades entre os requisitos coletados por meio da consulta tradicional e da utilização de IA, conforme descrito no livro "Requirements Engineering: Fundamentals, Principles, and Techniques" por Klaus Pohl e Chris Rupp. A eficácia de cada abordagem será avaliada com métricas específicas.
