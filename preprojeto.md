@@ -9,13 +9,13 @@
 
 1. A área da Engenharia de Software tratada neste trabalho é O Uso da Inteligência Artificial como Ferramenta no Levantamento de Requisitos e seu Impacto para a Engenheiros de Requisitos
 
-2. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês _Research Questions_) a seguir: _(RQ1) Como a utilização de inteligência artificial (IA) para levantamento e validação de requisitos afeta a identificação de áreas que poderiam ser negligenciadas pelo método tradicional de levantamento de requisitos?_
-
+2. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês _Research Questions_) a seguir: _(RQ1) Como a utilização de inteligência artificial (IA) para levantamento e validação de requisitos afeta a identificação de áreas que poderiam ser negligenciadas pelo método tradicional de levantamento de requisitos?_ _(RQ2) De que maneira a utilização da inteligência artificial pode influenciar a colaboração e a comunicação entre os diferentes stakeholders envolvidos no processo de engenharia de requisitos, e como isso afeta a qualidade dos requisitos identificados e validados?_ _(RQ3) Como a utilização de inteligência artificial no levantamento e validação de requisitos pode contribuir para a detecção precoce de lacunas ou inconsistências nos documentos de elicitação , em comparação com os métodos tradicionais?_
+   
 3. Resolver este problema é relevante porque é indiscutível que o uso da inteligência artificial (IA) está revolucionando o mundo da engenharia de software, e o levantamento e validação de requisitos não são exceção. Ao utilizar a IA nesse processo, podemos identificar áreas que talvez passariam despercebidas pelos métodos tradicionais, garantindo projetos mais completos, robustos e bem-sucedidos.
 
 4. O objetivo geral deste trabalho é analisar se a utilização de inteligência artificial (IA) para levantamento de requisitos consegue identificar áreas que não seriam consideradas pelos métodos tradicionais.
    
-5. Os *três* objetivos específicos deste trabalho são: _(1) Medir a eficácia da utilização de IA para o levantamento de requisitos em documentos de licitação.; (2) Avaliar a satisfação dos profissionais responsáveis pela consulta a livros e documentos de licitação em relação à integração de IA nesse processo.; (3) Identificar áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de licitação._
+5. Os *três* objetivos específicos deste trabalho são: _(1) Medir a eficácia da utilização de IA para o levantamento de requisitos em documentos de elicitação.; (2) Avaliar a satisfação dos profissionais responsáveis pela consulta a livros e documentos de elicitação em relação à integração de IA nesse processo.; (3) Identificar áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de elicitação._
 
 ## Fundamentação Teórica
 
@@ -40,19 +40,19 @@
    
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é quantitativo, pois envolve a análise de dados objetivos associados à eficácia da inteligência artificial (IA) no levantamento de requisitos. Além disso, é descritiva, pois também busca descrever as diferenças entre o uso da IA e os métodos tradicionais de levantamento de requisitos.
+1. O tipo de pesquisa adotado neste trabalho é quantitativo, pois envolve a análise de dados objetivos associados à eficácia da inteligência artificial (IA) no levantamento de requisitos. Além disso, é descritiva, pois também busca descrever as diferenças entre o uso da IA e os métodos tradicionais de levantamento de requisitos. Também incorpora uma abordagem qualitativa, através de uma análise qualitativa dos resultados, permitindo uma compreensão mais profunda das percepções e experiências dos profissionais envolvidos.
 
 2. Os materiais utilizados neste trabalho são come segue:
    a) As ferramentas de inteligência artificial utilizadas para comparar a eficiência na identificação de requisitos serão o CHATGPT-3.5 e Google Gemini.
    b) O livro "Requirements Engineering: Fundamentals, Principles, and Techniques" de Klaus Pohl e Chris Rupp servirá como base teórica para a criação de cenários comparativos.
 
-3. Os métodos empregados neste trabalho são _Análise comparativa entre os requisitos coletados pela IA e os obtidos através de métodos tradicionais, utilizando métricas específicas para avaliar a eficácia de cada abordagem_, _Avaliação da satisfação dos profissionais responsáveis pela consulta a livros e documentos de licitação em relação à integração da IA nesse processo, por meio de entrevistas semiestruturadas_, _Identificação de áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de licitação, através de análise qualitativa dos resultados_.
+3. Os métodos empregados neste trabalho são _Análise comparativa entre os requisitos coletados pela IA e os obtidos através de métodos tradicionais, utilizando métricas específicas para avaliar a eficácia de cada abordagem_, _Avaliação da satisfação dos profissionais responsáveis pela consulta a livros e documentos de elicitação em relação à integração da IA nesse processo, por meio de entrevistas semiestruturadas_, _Identificação de áreas de requisitos abordadas pela IA que não foram inicialmente consideradas durante a consulta a livros e documentos de elicitação, através de análise qualitativa dos resultados_.
 
-4. As métricas de avaliação empregadas no estudo são _Eficiência da IA no levantamento de requisitos em documentos de licitação, medida pela quantidade e relevância dos requisitos identificados_, _Satisfação dos profissionais em relação à integração da IA no processo de levantamento de requisitos, avaliada através de escalas de Likert e análise qualitativa das respostas_, _Identificação de áreas negligenciadas pelo método tradicional de levantamento de requisitos, comparadas com os requisitos identificados pela IA_.
+4. As métricas de avaliação empregadas no estudo são _Eficiência da IA no levantamento de requisitos em documentos de elicitação, medida pela quantidade e relevância dos requisitos identificados_, _Satisfação dos profissionais em relação à integração da IA no processo de levantamento de requisitos, avaliada através de escalas de Likert e análise qualitativa das respostas_, _Identificação de áreas negligenciadas pelo método tradicional de levantamento de requisitos, comparadas com os requisitos identificados pela IA_.
 
 5. As etapa de execução do trabalho são:
-   (1) Coleta de requisitos utilizando tanto a IA quanto os métodos tradicionais.
-   (2) Análise comparativa dos requisitos obtidos.
-   (3) Entrevistas com profissionais para avaliar a satisfação em relação à IA.
-   (4) Análise qualitativa dos resultados para identificar áreas negligenciadas.
-   (5) Discussão e conclusão com base nos resultados obtidos.
+   (1) Definição do cenário para o desenvolvimento do projeto estipulado.
+   (2) Divisão de equipes de Engenheiros de Requisitos em duas equipes, uma utilizando a IA e a outra os métodos tradicionais.
+   (3) Criação do documento de elicitação de requisitos do projeto estipulado.
+   (4) Análise quantitativa dos resultados para identificar áreas negligenciadas.
+   (5) Entrevistas com profissionais para avaliar a satisfação em relação à IA.
